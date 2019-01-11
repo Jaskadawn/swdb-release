@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.8efd39c3.chunk.css",
-  "main.js": "/static/js/main.30904189.chunk.js",
-  "main.js.map": "/static/js/main.30904189.chunk.js.map",
-  "static/js/1.9a2ef70d.chunk.js": "/static/js/1.9a2ef70d.chunk.js",
-  "static/js/1.9a2ef70d.chunk.js.map": "/static/js/1.9a2ef70d.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.8efd39c3.chunk.css.map": "/static/css/main.8efd39c3.chunk.css.map",
-  "static/media/App.css": "/static/media/Starjedi.cc3019aa.ttf",
-  "static/media/index.css": "/static/media/background.cc64e9ad.jpg",
-  "index.html": "/index.html",
-  "precache-manifest.f9267971015c07d43c1809600119a70e.js": "/precache-manifest.f9267971015c07d43c1809600119a70e.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/swdb-release/static/css/main.246c8e1f.chunk.css",
+  "main.js": "/swdb-release/static/js/main.f6a3f682.chunk.js",
+  "main.js.map": "/swdb-release/static/js/main.f6a3f682.chunk.js.map",
+  "static/js/1.9a2ef70d.chunk.js": "/swdb-release/static/js/1.9a2ef70d.chunk.js",
+  "static/js/1.9a2ef70d.chunk.js.map": "/swdb-release/static/js/1.9a2ef70d.chunk.js.map",
+  "runtime~main.js": "/swdb-release/static/js/runtime~main.a6ffc4a4.js",
+  "runtime~main.js.map": "/swdb-release/static/js/runtime~main.a6ffc4a4.js.map",
+  "static/css/main.246c8e1f.chunk.css.map": "/swdb-release/static/css/main.246c8e1f.chunk.css.map",
+  "static/media/App.css": "/swdb-release/static/media/Starjedi.cc3019aa.ttf",
+  "static/media/index.css": "/swdb-release/static/media/background.cc64e9ad.jpg",
+  "index.html": "/swdb-release/index.html",
+  "precache-manifest.01652098dd493ed687ab04dc3d088ae7.js": "/swdb-release/precache-manifest.01652098dd493ed687ab04dc3d088ae7.js",
+  "service-worker.js": "/swdb-release/service-worker.js"
 }
